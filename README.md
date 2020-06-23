@@ -19,7 +19,7 @@ For today's lab you should do the following:
 3. Using `document.querySelector()`, select for the the up and down arrow.
 4. Using `.addEventListener`, get the console to print "clicked!" when the up or down arrow are clicked.
 5. Update the temperature variable you declared in step 2 using `+=` or `-=` everytime the up or down arrow are clicked. Print the new temperature to the console.
-6. Using ES6 templateing `${}` and `innerHTML` update the Fahrenheit temperature on the screen.
+6. Using ES6 templateing `${}` or concatination and `innerHTML` update the Fahrenheit temperature on the screen.
 7. **CHALLENGE**: Currently, the temperature is listed only in Fahrenheit, but you want to also display the temperature in Celsius so that it can be used in countries besides the United States. To convert between the two temperature scales we have the following equations:
 
 ![](https://cdn.glitch.com/9a177b0d-9f8c-4449-a379-62b52e03c78d%2Fconversion.jpeg?v=1592860691230)
