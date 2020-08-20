@@ -6,7 +6,7 @@ We all know that we have our own personal preferences for how hot or cold we wan
 
 ## GOAL
 
-When the user clicks the up arrow, the temperature should go up and when the user clicks the down arrow the temperature should go down. The screen should also update with the new temperature in both Fahrenheit and Celsius.
+When the user clicks the up arrow, the temperature should go up and when the user clicks the down arrow the temperature should go down. The screen should also update with the new temperature in both Fahrenheit and Celsius.  
 ![](https://media.giphy.com/media/SS8ZhPFnz7Lm6t5q3Y/giphy.gif)
 ### TASKS
 
